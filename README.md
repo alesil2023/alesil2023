@@ -1,4 +1,4 @@
-- 👋 eu ou o @alesil2023
+- 👋 eu sou o @alesil2023
 - 👀 eu estou interessado em programação html
 - 🌱 frequentemente busco aprender css,github,desenvolvimento pessoal
 - 💞️ eu sou aluno de filosofia, colégio mário qintana
